@@ -1,2 +1,2 @@
-# Slotify-Webapp
-Online Slotify Webapp
+# Spotify-Webapp
+Online Spotify Webapp
